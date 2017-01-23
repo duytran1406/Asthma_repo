@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>female_walk_down</key>
+		<dict>
+			<key>delay</key>
+			<real>0.200000</real>
+			<key>frames</key>
+			<array>
+				<string>female_walk_down_00.png</string>
+				<string>female_walk_down_01.png</string>
+				<string>female_walk_down_02.png</string>
+				<string>female_walk_down_01.png</string>
+			</array>
+		</dict>
+		<key>female_walk_left</key>
+		<dict>
+			<key>delay</key>
+			<real>0.200000</real>
+			<key>frames</key>
+			<array>
+				<string>female_walk_left_00.png</string>
+				<string>female_walk_left_01.png</string>
+				<string>female_walk_left_02.png</string>
+				<string>female_walk_left_01.png</string>
+			</array>
+		</dict>
+		<key>female_walk_right</key>
+		<dict>
+			<key>delay</key>
+			<real>0.200000</real>
+			<key>frames</key>
+			<array>
+				<string>female_walk_right_00.png</string>
+				<string>female_walk_right_01.png</string>
+				<string>female_walk_right_02.png</string>
+				<string>female_walk_right_01.png</string>
+			</array>
+		</dict>
+		<key>female_walk_up</key>
+		<dict>
+			<key>delay</key>
+			<real>0.200000</real>
+			<key>frames</key>
+			<array>
+				<string>female_walk_up_00.png</string>
+				<string>female_walk_up_01.png</string>
+				<string>female_walk_up_02.png</string>
+				<string>female_walk_up_01.png</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
